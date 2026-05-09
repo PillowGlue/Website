@@ -7,3 +7,7 @@ body {
     background: aquamarine;
     color: black;
 }
+button {
+    font-family: 'Times New Roman', Times, serif;
+    background: gray;
+}
