@@ -4,10 +4,10 @@ img {
 body {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    background: aquamarine;
+    background: rgb(255, 255, 255);
     color: black;
 }
 button {
     font-family: 'Times New Roman', Times, serif;
-    background: gray;
+    background: whitesmoke;
 }
